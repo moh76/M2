@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toast.makeText(this, "git test", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "git test", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "git test", Toast.LENGTH_SHORT).show();
 
     }
 }
